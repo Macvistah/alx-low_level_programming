@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
- * print_sign - Prints sthe sign of a number 
+* print_sign - Prints sthe sign of a number 
  * @n: The number to be checked
  * Returm: 1 for positive number, -1 for negative number or 0 for anything else
  */
 
 int print_sign(int n)
-
 {
 	if (n > 0)
 	{
