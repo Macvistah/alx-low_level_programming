@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * Jack_bauer - Prints daily activities of jack_bauer
+ * jack_bauer - Prints daily activities of jack_bauer
  * Return: ...
  */
 
